@@ -44,11 +44,11 @@ A section of the day dedicated to learn NextJS, Prisma, Tailwindcss by building 
 A section of the day dedicated to learn NextJS, Prisma, Tailwindcss by building app
 
 - [x] 13:30 Watch Videos
-	- [ ] video 12-4
-	- [ ] video 12-5
-	- [ ] video 12-6
-	- [ ] video 12-7
-	- [ ] video 12-8
+	- [x] video 12-4
+	- [x] video 12-5
+	- [x] video 12-6
+	- [x] video 12-7
+	- [x] video 12-8
 - [ ] 15: 00 BREAK
 - [x] 15:15 Make Note
 	- [ ] Note 12-4
@@ -75,7 +75,7 @@ section of the day dedicated to learn canvas web API to give myself refresh from
 
 A section of the day dedicated to learn NextJS, prisma and Tailwindcss concepts.
 
-- [ ] 20:00 Watch videos
+- [x] 20:00 Watch videos
 	- [ ] video 13-0
 	- [ ] video 13-1
 	- [ ] video 13-2
@@ -83,7 +83,7 @@ A section of the day dedicated to learn NextJS, prisma and Tailwindcss concepts.
 	- [ ] video 13-4
 	- [ ] video 13-5
 	- [ ] video 13-6
-- [ ] 22:00 Make Notes
+- [x] 22:00 Make Notes
 	- [ ] Note 13-0
 	- [ ]  Note 13-1
 	- [ ]  Note 13-2
@@ -91,13 +91,13 @@ A section of the day dedicated to learn NextJS, prisma and Tailwindcss concepts.
 	- [ ]  Note 13-4
 	- [ ]  Note 13-5
 	- [ ]  Note 13-6
-- [ ] 23:00 BREAK
+- [x] 23:00 BREAK
 
 
 ### Next Day Preparation
 
 I use this time to review what I have done earlier in the day and complete any tasks to prepare for the next day.
 
-- [ ] 23:10 Review notes
+- [x] 23:10 Review notes
 - [ ] 23:45 Daily Note
 - [ ] 24:00 END
