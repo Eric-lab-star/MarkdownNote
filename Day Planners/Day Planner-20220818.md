@@ -37,15 +37,15 @@ This is my plan for the day broken into 6 sections
 
 ### Canvas API
 
-- [ ] 19:00 video 10
-- [ ] 20:20 video 11
-- [ ] 20:40 video 12
-- [ ] 21:00 video 13
-- [ ] 21:20 video 14
-- [ ] 21:40 BREAK
+- [x] 19:00 video 10
+- [x] 20:20 video 11
+- [x] 20:40 video 12
+- [x] 21:00 video 13
+- [x] 21:20 video 14
+- [x] 21:40 BREAK
 
 ### NextJS  Basic Features
-- [ ] 22:10 pages
+- [x] 22:10 pages
 - [ ] 22:30 Data Fetching
 - [ ] 24:00 END
 
