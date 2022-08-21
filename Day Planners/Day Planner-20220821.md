@@ -36,7 +36,7 @@
 - [x] 20:00 video 10 note
 - [x] 21:30 video 11
 - [x] 22:00 video 11 note
-- [ ] 22:30 video 12
+- [x] 22:30 video 12
 - [ ] 23:00 video 12 note
 
 ### Wrap-up
